@@ -27,5 +27,6 @@
     "react": "16.5.2",
     "react-dom": "16.5.2",
     "react-hot-loader": "4.3.11"
-  }
+  },
+  "browserslist": "> 0.25%, not dead"
 }

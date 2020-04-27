@@ -37,4 +37,9 @@ yarn add react-hot-loader@4.3.11
 And a tweak to the `App.js` file to add this. Now restart, and what do we get??
 Bingo!
 
+Now to push the puppy into my repo:
+```
+git remote add origin https://github.com/trevithj/experiment.git
+git push -u origin master
+```
 
